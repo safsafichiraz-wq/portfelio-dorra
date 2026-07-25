@@ -1,8 +1,7 @@
 /*
-Template Name: Tunis - Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
+Author: dorra safsafi
+
+Description: Tunis - dorra safsafi Personal Portfolio Template
 Version: 1.0
 */
 
@@ -1411,7 +1410,7 @@ body.blog-post article img {
 
 @media (max-width: 1200px) and (min-width: 992px) {
   .home .home-details h1 {
-    font-size: 42px;
+    font-size: 60px;
     line-height: 52px;
   }
 }
@@ -1461,7 +1460,7 @@ body.blog-post article img {
   }
 
   .home .home-details h1 {
-    font-size: 38px;
+    font-size: 100px;
     line-height: 48px;
     margin: 29px 0 13px;
   }
